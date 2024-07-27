@@ -1,0 +1,6 @@
+@DomumWebApi_HostAddress = http://localhost:5068
+
+GET {{DomumWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
